@@ -85,7 +85,7 @@ void draw() {
 				{
 					cout << " ";
 				}
-	
+
 			}
 
 			if (j == WIDTH - 1)
@@ -173,3 +173,4 @@ void logic() {
 		nTail++;
 	}
 }
+// end of program
